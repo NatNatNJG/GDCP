@@ -75,7 +75,7 @@ const d = {
 			"id": 408,
 			"pass": "N/A",
 			"percentToQualify": 100,
-			"verificationVid": "",
+			"verificationVid": "https://youtu.be/q25iN5z4-so?si=vDgZZOuU1Dtr79yp",
 			"key": 3
 		},
 		/*=================================================================================*/
@@ -115,7 +115,7 @@ const d = {
 			"id": 405,
 			"pass": "N/A",
 			"percentToQualify": 100,
-			"verificationVid": "",
+			"verificationVid": "https://www.youtube.com/watch?v=gd-aJ_zWa2A",
 			"key": 5
 		},
 		/*=================================================================================*/
