@@ -157,6 +157,20 @@ const d = {
 			"vids": [
 
       ],
+			"name": "Acropolished",
+			"author": "Username [ILikeBaguette]",
+			"more": "none",
+			"id": 406,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=cfrTD6slE-E",
+			"key": 8
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
 			"name": "Spike Dungeon",
 			"author": "Maskedflame443",
 			"more": "none",
@@ -164,7 +178,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 8
+			"key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -184,7 +198,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 9
+			"key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -204,7 +218,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 10
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -218,7 +232,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=urmoyZcbL-k",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -232,7 +246,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 12
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -246,7 +260,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=rphB4TGC7_o",
-			"key": 13
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -266,7 +280,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 14
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -286,7 +300,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 15
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -300,7 +314,21 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 16
+			"key": 17
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
+			"name": "DF",
+			"author": "Leoneo1",
+			"more": "none",
+			"id": 415,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "",
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -320,7 +348,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 17
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
@@ -340,7 +368,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 18
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -354,7 +382,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 19
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -374,7 +402,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 20
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -388,7 +416,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 21
+			"key": 23
 		},
 		/*=================================================================================*/
 
