@@ -197,6 +197,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+
+      ],
+			"name": "Le Troisieme Pole",
+			"author": "ILikeBaguette",
+			"more": "none",
+			"id": 375,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=urmoyZcbL-k",
+			"key": 11
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "ILikeBaguette",
 					"link": "https://www.youtube.com/watch?v=KSCPULlJTQQ",
@@ -212,7 +226,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 11
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -232,20 +246,6 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 12
-		},
-		/*=================================================================================*/
-		{
-			"vids": [
-
-      ],
-			"name": "Le Troisieme Pole",
-			"author": "ILikeBaguette",
-			"more": "none",
-			"id": 375,
-			"pass": "N/A",
-			"percentToQualify": 100,
-			"verificationVid": "https://www.youtube.com/watch?v=urmoyZcbL-k",
 			"key": 13
 		},
 		/*=================================================================================*/
