@@ -129,6 +129,34 @@ const d = {
 			"vids": [
 
       ],
+			"name": "le plus nul du monde",
+			"author": "ILikeBaguette",
+			"more": "none",
+			"id": 470,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=TTPZ4aeh-e0",
+			"key": 6
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
+			"name": "Cosmic Reality",
+			"author": "ClooVlieg",
+			"more": "none",
+			"id": 463,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=SsGCufqcF78",
+			"key": 7
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
+
+      ],
 			"name": "White",
 			"author": "Username",
 			"more": "none",
@@ -136,7 +164,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 6
+			"key": 8
 		},
 		/*=================================================================================*/
 		{
@@ -150,7 +178,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=cfrTD6slE-E",
-			"key": 7
+			"key": 9
 		},
 		/*=================================================================================*/
 		{
@@ -164,7 +192,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 8
+			"key": 10
 		},
 		/*=================================================================================*/
 		{
@@ -184,7 +212,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 9
+			"key": 11
 		},
 		/*=================================================================================*/
 		{
@@ -204,7 +232,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 10
+			"key": 12
 		},
 		/*=================================================================================*/
 		{
@@ -218,7 +246,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=urmoyZcbL-k",
-			"key": 11
+			"key": 13
 		},
 		/*=================================================================================*/
 		{
@@ -232,7 +260,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 12
+			"key": 14
 		},
 		/*=================================================================================*/
 		{
@@ -246,7 +274,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "https://www.youtube.com/watch?v=rphB4TGC7_o",
-			"key": 13
+			"key": 15
 		},
 		/*=================================================================================*/
 		{
@@ -266,7 +294,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 14
+			"key": 16
 		},
 		/*=================================================================================*/
 		{
@@ -286,7 +314,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 15
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -300,7 +328,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 16
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -314,7 +342,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 17
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
@@ -334,7 +362,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 18
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -354,7 +382,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 19
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -368,7 +396,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 20
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -388,7 +416,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 21
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -402,7 +430,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 22
+			"key": 24
 		},
 		/*=================================================================================*/
 
