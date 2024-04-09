@@ -113,6 +113,12 @@ const d = {
 					"percent": 100,
 					"hz": "144 Hz"
 				},
+				{
+					"user": "ClooVlieg",
+					"link": "https://www.youtube.com/watch?v=l2LoQ-Zza6U",
+					"percent": 100,
+					"hz": "240 Hz"
+				},
 
       ],
 			"name": "Chameleon",
@@ -279,6 +285,20 @@ const d = {
 		/*=================================================================================*/
 		{
 			"vids": [
+
+      ],
+			"name": "Forget",
+			"author": "Username [ClooVlieg]",
+			"more": "none",
+			"id": 261,
+			"pass": "N/A",
+			"percentToQualify": 100,
+			"verificationVid": "https://www.youtube.com/watch?v=L6GOe29nvdg",
+			"key": 16
+		},
+		/*=================================================================================*/
+		{
+			"vids": [
 				{
 					"user": "ILikeBaguette",
 					"link": "https://www.youtube.com/watch?v=KSCPULlJTQQ",
@@ -294,7 +314,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 16
+			"key": 17
 		},
 		/*=================================================================================*/
 		{
@@ -314,7 +334,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 17
+			"key": 18
 		},
 		/*=================================================================================*/
 		{
@@ -328,7 +348,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 18
+			"key": 19
 		},
 		/*=================================================================================*/
 		{
@@ -342,7 +362,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 19
+			"key": 20
 		},
 		/*=================================================================================*/
 		{
@@ -362,7 +382,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 20
+			"key": 21
 		},
 		/*=================================================================================*/
 		{
@@ -382,7 +402,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 21
+			"key": 22
 		},
 		/*=================================================================================*/
 		{
@@ -396,7 +416,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 22
+			"key": 23
 		},
 		/*=================================================================================*/
 		{
@@ -416,7 +436,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 23
+			"key": 24
 		},
 		/*=================================================================================*/
 		{
@@ -430,7 +450,7 @@ const d = {
 			"pass": "N/A",
 			"percentToQualify": 100,
 			"verificationVid": "",
-			"key": 24
+			"key": 25
 		},
 		/*=================================================================================*/
 
